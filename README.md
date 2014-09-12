@@ -1,4 +1,4 @@
 test-repo
 =========
 
-this is test repository.
+this is demo test repository.
